@@ -22,6 +22,6 @@ test:
 
 production:
   adapter: postgresql
-  database: treebook
+  database: d16gbmig4b89sv
   pool: 5
   timeout: 5000
