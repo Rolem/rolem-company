@@ -12,7 +12,7 @@ group :development do
 	gem 'spring'
 	gem 'sqlite3'
 end
-
+gem "less-rails"
 gem 'debugger-ruby_core_source', '1.1.6'
 gem 'therubyracer'
 gem 'sass-rails', '~> 4.0.3'
@@ -25,5 +25,4 @@ gem 'turbolinks'
 gem 'unicorn'
 gem 'barista'
 gem 'capistrano-rails', group: :development
-
-
+gem 'semantic-ui-rails'
